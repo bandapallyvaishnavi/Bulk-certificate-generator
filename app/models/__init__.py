@@ -1,0 +1,1 @@
+from app.models.job import Certificate, CertificateJob
